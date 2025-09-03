@@ -27,3 +27,16 @@ I’m a Data Scientist with 6+ years of experience delivering end-to-end AI/ML a
 
 **🔎 Interests:**
 Responsible AI, LLMOps (prompt versioning, drift monitoring), retrieval quality, and turning analytical models into reliable, user-centric products.
+
+## 💼 Work Experience
+- 🏢 **Ministry of Health Ontario, Ministry of Long-Term Care** · 📍 **Toronto, ON** · 📅 **Sept 2024 – Present**
+- 🏢 **Tiger Analytics** · 📅 **May 2022– June 2024**
+- 🏢 **Optum Global Solutions, United Health Group** · 📅 **July 2017– August 2020**
+
+## 🎓 Education
+- 🎓 **Master of Business Administration in STEM - Data Science, AI/ML and Analytics** · 📅 **May 2020– May 2022**             
+Indian Institute of Management Tiruchirappalli              
+Focused on applied machine learning, statistics, and business analytics      
+
+- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **Sept 2013–July 2017**          
+VNR Vignana Jyothi Institute of Engineering and Technology
