@@ -6,10 +6,10 @@ I’m a Data Scientist with 6+ years of experience delivering end-to-end AI/ML a
 
 **💡 What I Do:**
 
-* Forecasting & optimization: SARIMA/Prophet/LSTM for demand, inventory, and capacity; elasticity modeling and causal A/B testing for pricing.
-* Predictive ML: XGBoost/LightGBM/Scikit-learn pipelines for churn, risk, and classification with SHAP/LIME for explainability.
-* GenAI & NLP: RAG apps (LangChain, FAISS), GPT-4–powered assistants, semantic search, summarization, NER, OCR + entity extraction.
-* Analytics to action: translate insights into workflows and dashboards; lead Agile sprints, reviews, and stakeholder readouts.
+* **GenAI & NLP**: RAG apps (LangChain, Llamaindex, FAISS), GPT-4–powered assistants, semantic search, summarization, NER, OCR + entity extraction.
+* **Forecasting & optimization**: SARIMA/Prophet/LSTM for demand, inventory, and capacity; elasticity modeling and causal A/B testing for pricing.
+* **Predictive ML**: XGBoost/LightGBM/Scikit-learn pipelines for churn, risk, and classification with SHAP/LIME for explainability.
+* **Analytics to action**: translate insights into workflows and dashboards; lead Agile sprints, reviews, and stakeholder readouts.
 
 **⚙ Tech Stack:**
 
