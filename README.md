@@ -106,4 +106,14 @@ Unified embeddings (text+image) · L2-normalization (512-d) · RecursiveCharacte
 
 [**Open Colab**](https://github.com/Aishwarya-chen11/Build-LLM-architecture-from-scratch/blob/main/Building_LLM_from_Scratch.ipynb) · [**GitHub Repo**](https://github.com/Aishwarya-chen11/Build-LLM-architecture-from-scratch)
 
+<h2> 🤳 Connect with me:</h2>
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aishwarya Chennabathni | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[linkedin]:https://www.linkedin.com/in/aishwarya-chennabathni/
+[gmail]:mailto:aishwarya.chen11@gmail.com
+
 
