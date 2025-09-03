@@ -55,9 +55,13 @@ Evaluation: RAG-Triad (CR/G/AR) · Leaderboard (latency/tokens/cost) · A/B retr
 **Highlights:** SWR + AMR outperform dense baseline on **grounding** and **context relevance** · Coherent, non-fragmented context via AMR · Token/cost reduction vs naïve top-k · Reproducible pipeline with persisted indexes and TruLens dashboards
 
 [**Open Colab — Advanced\_RAG\_Pipeline**](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/Advanced_RAG_Pipeline.ipynb)
+
 [**Open Colab — RAG\_Triad\_of\_metrics**](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/RAG_Triad_of_metrics.ipynb)
+
 [**Open Colab — Sentence\_window\_retrieval**](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/Sentence_window_retrieval.ipynb)
+
 [**Open Colab — Auto-merging\_Retrieval**](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques/blob/main/Auto-merging_Retrieval.ipynb)
+
 [**GitHub Repo**](https://github.com/Aishwarya-chen11/Implementing-Advanced-RAG-techniques)
 
 ### 📩 Spam SMS Classification & Data Analysis — GPT-2 Fine-Tuning
