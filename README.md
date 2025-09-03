@@ -41,7 +41,7 @@ Focused on applied machine learning, statistics, and business analytics
 - 🎓 **Bachelor of Technology in Electrical and Electronics Engineering** · 📅 **Sept 2013–July 2017**          
 VNR Vignana Jyothi Institute of Engineering and Technology
 
-<h2>💡 My Protfolio Projects </h2>
+<h2>💡 My Portfolio Projects </h2>
 
 Welcome to my GitHub portfolio! Here are some of the projects I've worked on.
 
